@@ -6,7 +6,7 @@ public class FirstCICD {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Running my first CICD code in jenkins.........");
+		System.out.println("Running my first CICD code in jenkins..........");
 	}
 
 }
